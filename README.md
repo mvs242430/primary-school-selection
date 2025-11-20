@@ -10,3 +10,9 @@ What it does
 - Loads GSK national test CSVs, cleans numeric columns and standardizes names.
 - Merges borough-level 8th‑grade scores with average price per m² for Oslo.
 - Produces simple visualizations (boxplots, bar+line, scatter) and computes correlations.
+
+Quick peek into findings
+
+![National box plot results](nat-avg.png)
+![Bergen Oslo comparison](subj-oslo-bergen.png)
+![Price correlation](price-corr.png)
